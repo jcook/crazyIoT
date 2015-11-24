@@ -1,0 +1,13 @@
+contents
+========
+
+o contiki-sensinode-cc-ports/
+  = The copied version is
+
+	commit 872366b5dfbcb2d8dd2a74f6e9d9889d735bdd2a
+	Merge: 889e087 326781e
+	Author: George Oikonomou <g.oikonomou@bristol.ac.uk>
+	Date:   Wed Jan 9 19:33:51 2013 +0000
+
+    	Merge branch 'master' into cc-ports
+  = I will add somes local modifications in it that do not suit for all.
